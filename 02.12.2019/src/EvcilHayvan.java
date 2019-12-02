@@ -4,7 +4,7 @@ public class EvcilHayvan {
 	public EvcilHayvan(String isim)
 	{
 		this.isim = isim;
-		System.out.println(isim+" oyun oynuyor");
+		System.out.println(isim +" oyun oynuyor");
 	}
 	
 	private String isim;
